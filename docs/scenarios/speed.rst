@@ -202,6 +202,7 @@ On a standard notebook (dual core AMD E-450 1.6 GHz), the measured values are:
 
 
 And here the output of an embedded `ARM beaglebone <http://beagleboard.org/Products/BeagleBone>`_  machine:
+
 .. code-block:: console
 
     Cython time: 0.0196 seconds
